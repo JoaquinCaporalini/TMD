@@ -1,0 +1,46 @@
+Repaso de ML (versión Pandemia)
+https://youtu.be/-Hxa16jl_28
+
+Repaso de R (versión Pandemia) 
+https://youtu.be/SXJrqzMvQxo
+https://youtu.be/-orjmEBw2nA
+
+Preprocesamiento (Versión Pandemia)
+https://youtu.be/UNWl76mIDNc
+
+Visualización (Versión Pandemia)
+https://youtu.be/JUqUhrWg-1Q
+
+Proyecciones (Versión Pandemia)
+https://www.youtube.com/watch?v=OL-7mzwlZcw
+
+Selección de variables (Versión Pandemia)
+https://www.youtube.com/watch?v=DX-WOCBpcxk
+https://www.youtube.com/watch?v=oFXoE60FCAE
+
+Intro a Clustering
+https://youtu.be/s5kcax75FGM
+
+Clustering divisivo
+https://youtu.be/EHqQ1150Z4U
+https://youtu.be/4KxHXHkfmlw
+
+Clustering jerárquico
+https://youtu.be/iiIjH5VUsLs
+https://youtu.be/bEWO_jdT1d8
+
+Cuántos clusters? 
+https://youtu.be/9uwOa0T2XHo
+
+Ensambles
+https://youtu.be/I9bqejSGwhI
+https://youtu.be/9hrtSZB0jqY
+https://youtu.be/sZUqf0PDXLE
+https://youtu.be/EJ1og762SO4
+
+Métodos de Kernel
+https://youtu.be/rcWDKE20-so
+https://youtu.be/E3LoTjt5bIs
+https://youtu.be/aCK_4HWGIao
+
+
